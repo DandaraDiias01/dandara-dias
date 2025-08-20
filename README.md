@@ -12,7 +12,6 @@ Aprendendo sobre Git & GitHub
 
 HTML CSS e JavaScript
 
-Python
 
 Descobrindo o mundo da tecnologia
 
